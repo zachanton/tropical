@@ -1,4 +1,4 @@
 # tropical
-tropical: Tropical Algera framework in Python
+tropical: Tropical Algebra framework in Python
 
 coming soon...
